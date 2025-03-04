@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nazisagit
-- 👀 I’m interested in ruby, python, generally anything that can be used to build something interesting
+👋 Hi, I’m @Nazisagit
+👀 I’m interested in ruby, python, generally anything that can be used to build something interesting
 
 # Education
 I have a bachelor's in Computer Science from King's College London.
